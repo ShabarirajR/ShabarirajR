@@ -1,142 +1,128 @@
 [README.md](https://github.com/user-attachments/files/33699508/README.md)
-<!--
-  GitHub Profile README
-  1. Create a public repository whose name exactly matches your GitHub username.
-  2. Replace every placeholder such as YOUR-GITHUB-USERNAME and YOUR-LINKEDIN-URL.
-  3. Upload this README.md and the assets/profile-banner.svg file.
-  4. Keep only the technologies and links that accurately represent you.
--->
 
 <div align="center">
+  
+  <img src="watermarked_img_3710371837294938340.jpg" width="180" height="180" alt="Shabariraj Rajendran" style="border-radius: 50%; border: 3px solid #0366d6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  
+  <h1>Hi there, I'm Shabariraj Rajendran 👋</h1>
+  
+  <!-- Typing SVG for a "Wow" Opening Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Data+Engineer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 
-<img src="assets/profile-banner.svg" alt="Dark technology banner with a cyan and purple gradient" width="100%" />
+  <p><em>“They said impossible, I said watch me.”</em></p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Learning+by+Building+Real+Projects;Exploring+Data%2C+AI%2C+and+Cloud+Technology" alt="Animated introduction" />
-</a>
+  <p>
+    I am a first-year <b>Computer Science (Data Engineering)</b> student at Universiti Teknologi Malaysia (UTM).<br> 
+    Passionate about data, programming, and building practical technology projects.
+  </p>
 
-<p>
-  <a href="https://github.com/ShabarirajR">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/shabariraj-rajendran/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
+  <!-- Contact Buttons / Badges -->
+  <a href="mailto:shabariraj.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shabariraj-rajendran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Shabariraj-source"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
+  <br><br>
 </div>
 
 ---
 
-## `whoami` — Hello, I'm Shabariraj Rajendran 👋
-
-I'm currently pursuing a **Bachelor of Computer Science (Data Engineering)** at **Universiti Teknologi Malaysia (UTM), Johor Bahru**.
-
-I'm building my foundations in programming, data, and modern technology by learning consistently, experimenting with ideas, and documenting what I create. This profile is my public learning log: a place to share projects, practical experiments, lessons learned, and progress over time.
-
-- 🎓 **Currently studying:** Computer Science (Data Engineering) at UTM
-- 🐍 **Building foundations in:** Python and SQL
-- 🧱 **Exploring:** Data engineering concepts and data workflows
-- 🤖 **Interested in:** Artificial intelligence, Generative AI, and Agentic AI
-- ☁️ **Learning about:** Cloud computing and cybersecurity awareness
-- 📚 **Approach:** Learn it, build it, document it, improve it
-
-> I’m not here to claim I know everything. I’m here to keep learning, build useful things, and show the process honestly.
-
-## `focus --current` — What I'm focusing on
+## 👨‍💻 About Me & Career Goals
 
 <div align="center">
-
-| Area | Current direction |
-|---|---|
-| Data Engineering | Learning how data is collected, transformed, stored, and used |
-| Programming | Practising Python and SQL through small exercises and projects |
-| Artificial Intelligence | Exploring responsible AI, Generative AI, and Agentic AI |
-| Cloud & Security | Developing foundational awareness of cloud computing and cybersecurity |
-| Portfolio | Turning learning into documented, reproducible projects |
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Data Engineering Animation">
 </div>
 
-## `tech-stack` — Tools & technologies
-
-These are learning areas and tools I'm building familiarity with, not a claim of expert-level proficiency.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Python, MySQL, Git, GitHub, and Visual Studio Code icons" />
-
-</div>
-
-**Areas of interest**
-
-`Data Engineering` · `SQL` · `Python` · `Artificial Intelligence` · `Generative AI` · `Agentic AI` · `Cloud Computing` · `Cybersecurity Awareness`
-
-*Add or remove icons as your experience changes. Only list tools you have actually used.*
-
-## `projects` — Things I'm building
-
-I use projects to turn concepts into practical experience. As I publish work, this section will become a showcase of what I've built and what I've learned.
-
-- **Data Engineering Projects** — small projects exploring data cleaning, transformation, storage, and analysis.
-- **Python & SQL Practice** — exercises and mini-projects that strengthen programming and querying fundamentals.
-- **AI Experiments** — carefully documented experiments with Generative AI, prompting, and workflow ideas.
-
-**Coming next:** Replace these examples with links to your real repositories. For each project, explain the problem, tools used, what you built, and what you learned. Do not leave a project listed here unless you are actively working on it or have published it.
-
-## `certifications` — Continuous learning
-
-Completed six Malaysian government / Rakyat Digital certificates covering:
-
-- AI Nation 2030
-- AI Safety
-- Cloud Computing
-- Cybersecurity
-- Generative AI
-- Agentic AI
-
-These certificates represent learning and foundational exposure. I'll continue strengthening that knowledge through practical projects and hands-on experience.
-
-## `github-stats` — Activity & progress
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most-used languages on GitHub" />
-
-</div>
-
-<sub>These cards are provided by a third-party service and may occasionally be unavailable or rate-limited. Language statistics reflect code in repositories, not overall ability.</sub>
-
-## `connect` — Let's connect
-
-I'm happy to connect with students, developers, and people interested in data, AI, and technology. If you're also learning, building, or sharing useful resources, let's connect.
-
-<div align="center">
-
-<a href="www.linkedin.com/in/shabariraj-rajendran">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="https://github.com/ShabarirajR">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
-
-</div>
+- 🎯 **Career Goal:** Become a skilled Data Engineer who builds reliable data systems and works with modern AI technologies.
+- 🚀 **Short-term Goal:** Develop a strong technical portfolio and secure a highly technical Year 2 internship.
+- 🌍 **Long-term Goal:** Work remotely with an international technology company, driving impact through scalable data solutions.
+- 💡 **Strengths:** Academic commitment, leadership, problem-solving, peer tutoring, and learning by building real-world projects.
 
 ---
 
+## 🛠️ Technical Skills & Technologies
+
+I am constantly expanding my toolkit. Here are the technologies I work with:
+
+**Languages & Core Concepts**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+
+**Data & Cloud Tools**
+<br>
+<img src="https://img.shields.io/badge/Data_Analytics-FFCA28?style=flat-square&logo=databricks&logoColor=black" alt="Data Analytics">
+<img src="https://img.shields.io/badge/Cloud_Computing-2496ED?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud">
+<img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI">
+
+---
+
+## 🚀 Projects & Portfolio
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **[Project 1 Name]** | Briefly describe the project, the problem it solves, and your role. | `Python`, `SQL` | [GitHub](#) \| [Live Demo](#) |
+| **[Project 2 Name]** | Briefly describe the project, the problem it solves, and your role. | `Cloud`, `API` | [GitHub](#) \| [Live Demo](#) |
+| **[Project 3 Name]** | Briefly describe the project, the problem it solves, and your role. | `C++`, `Data` | [GitHub](#) \| [Live Demo](#) |
+
+*(Note: Replace placeholders with your actual projects as you build them!)*
+
+---
+
+## 🎓 Education
+
+**Universiti Teknologi Malaysia (UTM) | Johor Bahru, Malaysia**
+- **Programme:** Bachelor of Computer Science (Data Engineering)
+- **Current Status:** Year 1
+- **Focus Areas:** Fundamentals of Programming, Data Structures, Mathematics for IT.
+
+---
+
+## 🏆 Leadership, Achievements & Extracurriculars
+
+- **Peer Tutoring:** Assisting peers in understanding core programming concepts and debugging code.
+- **[Insert Role/Title]:** [Brief description of what you achieved or led].
+- **[Insert Event/Hackathon]:** [Brief description of participation or victory].
+
+---
+
+## 📜 Certifications & Courses
+
+- 🏅 **[Certification Name]** - [Issuing Organization]
+- 🏅 **[Course Name]** - [Platform/Institution]
+
+---
+
+## 🔭 Currently Learning & Interests
+
 <div align="center">
-
-**Learning in public. Building with purpose. Improving one project at a time.**
-
-<sub>Thanks for visiting my corner of GitHub ✨</sub>
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" align="left" alt="Space Animation">
 </div>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am deeply fascinated by the intersection of data and the future. When I'm not coding, I am exploring:
+- 📊 **Advanced Data Engineering & Pipelines**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- ☁️ **Cloud Computing Architectures**
+- 🚀 **Space Technology & Exploration**
+
+<br clear="left"/>
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, talk about data engineering, or just say hi!
+
+- 📧 **Email:** [shabariraj.dev@gmail.com](mailto:shabariraj.dev@gmail.com)
+- 💼 **LinkedIn:** [shabariraj-rajendran](https://www.linkedin.com/in/shabariraj-rajendran/)
+- 💻 **GitHub:** [@Shabariraj-source](https://github.com/Shabariraj-source)
+- 📸 **Instagram:** [@shabariraj.dev](https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw==)
+- ✈️ **Telegram:** *(Coming Soon)*
+
+<br>
+
+<div align="center">
+  <i>Visitor Count</i><br>
+  <img src="https://profile-counter.glitch.me/Shabariraj-source/count.svg" alt="Visitor Count" />
+</div>
