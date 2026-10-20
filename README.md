@@ -113,10 +113,10 @@ I'm happy to connect with students, developers, and people interested in data, A
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+<a href="www.linkedin.com/in/shabariraj-rajendran">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/ShabarirajR">
   <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
