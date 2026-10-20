@@ -1,128 +1,124 @@
 [README.md](https://github.com/user-attachments/files/33699508/README.md)
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=50&pause=1000&color=D81120&center=true&vCenter=true&width=800&lines=SHABARIRAJ+RAJENDRAN;DATA+ENGINEER;TECH+INNOVATOR" alt="Typing SVG" />
   
-  <img src="watermarked_img_3710371837294938340.jpg" width="180" height="180" alt="Shabariraj Rajendran" style="border-radius: 50%; border: 3px solid #0366d6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  
-  <h1>Hi there, I'm Shabariraj Rajendran 👋</h1>
-  
-  <!-- Typing SVG for a "Wow" Opening Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Data+Engineer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
-
-  <p><em>“They said impossible, I said watch me.”</em></p>
-
-  <p>
-    I am a first-year <b>Computer Science (Data Engineering)</b> student at Universiti Teknologi Malaysia (UTM).<br> 
-    Passionate about data, programming, and building practical technology projects.
+  <p align="center">
+    <b>Computer Science Student | Aspiring Data Engineer</b><br>
+    <i>“They said impossible, I said watch me.”</i>
   </p>
 
-  <!-- Contact Buttons / Badges -->
-  <a href="mailto:shabariraj.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/shabariraj-rajendran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Shabariraj-source"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-  <br><br>
+  <a href="mailto:shabariraj.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D81120" alt="Email"></a>
+  <a href="https://github.com/Shabariraj-source"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D81120" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shabariraj-rajendran/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D81120" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D81120" alt="Instagram"></a>
 </div>
 
----
-
-## 👨‍💻 About Me & Career Goals
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Data Engineering Animation">
-</div>
-
-- 🎯 **Career Goal:** Become a skilled Data Engineer who builds reliable data systems and works with modern AI technologies.
-- 🚀 **Short-term Goal:** Develop a strong technical portfolio and secure a highly technical Year 2 internship.
-- 🌍 **Long-term Goal:** Work remotely with an international technology company, driving impact through scalable data solutions.
-- 💡 **Strengths:** Academic commitment, leadership, problem-solving, peer tutoring, and learning by building real-world projects.
-
----
-
-## 🛠️ Technical Skills & Technologies
-
-I am constantly expanding my toolkit. Here are the technologies I work with:
-
-**Languages & Core Concepts**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-
-**Data & Cloud Tools**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 <br>
-<img src="https://img.shields.io/badge/Data_Analytics-FFCA28?style=flat-square&logo=databricks&logoColor=black" alt="Data Analytics">
-<img src="https://img.shields.io/badge/Cloud_Computing-2496ED?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud">
-<img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI">
 
----
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="35%" align="center" style="border: none;">
+      <!-- REPLACE 'watermarked_img_18324930720622513468.jpg' WITH YOUR ACTUAL IMAGE LINK ONCE UPLOADED -->
+      <img src="watermarked_img_18324930720622513468.jpg" width="250" alt="Profile Picture" style="border-radius: 10px; border: 2px solid #D81120;">
+    </td>
+    <td width="65%" valign="top" style="border: none;">
+      <h2>// ABOUT ME & GOALS</h2>
+      <p>I am a first-year <b>Computer Science (Data Engineering)</b> student at Universiti Teknologi Malaysia (UTM) with a relentless drive for building reliable data systems and working with modern AI technologies.</p>
+      <br>
+      <p>🚀 <b>Mission:</b> Develop a strong technical portfolio, master scalable data systems, and secure a high-impact Year 2 internship.</p>
+      <p>💡 <b>Strengths:</b> Analytical problem-solving, rapid learning through building, leadership, and peer mentoring.</p>
+      <p>🌍 <b>Vision:</b> Remote collaboration with global tech innovators, pushing boundaries in AI and data architecture.</p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Projects & Portfolio
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h2>// TECHNICAL ARSENAL</h2>
+      <p><b>Core Languages:</b></p>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D81120">
+      <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=D81120">
+      <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B&logoColor=D81120">
+      <br><br>
+      <p><b>Data & Architecture:</b></p>
+      <img src="https://img.shields.io/badge/Data_Analytics-111111?style=flat-square&logo=databricks&logoColor=D81120">
+      <img src="https://img.shields.io/badge/Cloud_Computing-111111?style=flat-square&logo=google-cloud&logoColor=D81120">
+      <img src="https://img.shields.io/badge/AI_Integration-111111?style=flat-square&logo=openai&logoColor=D81120">
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h2>// CURRENTLY EXPLORING</h2>
+      <p>🛰️ <b>Space Technology & Data:</b> Exploring how big data impacts modern space exploration.</p>
+      <p>🧠 <b>Machine Learning:</b> Building predictive models.</p>
+      <p>☁️ <b>Cloud Infrastructure:</b> Designing scalable remote databases.</p>
+      <div align="center">
+        <!-- Tech/Wireframe GIF for aesthetic -->
+        <img src="https://i.pinimg.com/originals/a7/46/78/a74678dfa97b21bd1c3f191f636279f6.gif" width="120" style="border-radius: 10px; border: 1px solid #333;">
+      </div>
+    </td>
+  </tr>
+</table>
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **[Project 1 Name]** | Briefly describe the project, the problem it solves, and your role. | `Python`, `SQL` | [GitHub](#) \| [Live Demo](#) |
-| **[Project 2 Name]** | Briefly describe the project, the problem it solves, and your role. | `Cloud`, `API` | [GitHub](#) \| [Live Demo](#) |
-| **[Project 3 Name]** | Briefly describe the project, the problem it solves, and your role. | `C++`, `Data` | [GitHub](#) \| [Live Demo](#) |
+<h2>// SELECTED PROJECTS</h2>
 
-*(Note: Replace placeholders with your actual projects as you build them!)*
-
----
-
-## 🎓 Education
-
-**Universiti Teknologi Malaysia (UTM) | Johor Bahru, Malaysia**
-- **Programme:** Bachelor of Computer Science (Data Engineering)
-- **Current Status:** Year 1
-- **Focus Areas:** Fundamentals of Programming, Data Structures, Mathematics for IT.
-
----
-
-## 🏆 Leadership, Achievements & Extracurriculars
-
-- **Peer Tutoring:** Assisting peers in understanding core programming concepts and debugging code.
-- **[Insert Role/Title]:** [Brief description of what you achieved or led].
-- **[Insert Event/Hackathon]:** [Brief description of participation or victory].
-
----
-
-## 📜 Certifications & Courses
-
-- 🏅 **[Certification Name]** - [Issuing Organization]
-- 🏅 **[Course Name]** - [Platform/Institution]
-
----
-
-## 🔭 Currently Learning & Interests
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" align="left" alt="Space Animation">
-</div>
-
-I am deeply fascinated by the intersection of data and the future. When I'm not coding, I am exploring:
-- 📊 **Advanced Data Engineering & Pipelines**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ☁️ **Cloud Computing Architectures**
-- 🚀 **Space Technology & Exploration**
-
-<br clear="left"/>
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, talk about data engineering, or just say hi!
-
-- 📧 **Email:** [shabariraj.dev@gmail.com](mailto:shabariraj.dev@gmail.com)
-- 💼 **LinkedIn:** [shabariraj-rajendran](https://www.linkedin.com/in/shabariraj-rajendran/)
-- 💻 **GitHub:** [@Shabariraj-source](https://github.com/Shabariraj-source)
-- 📸 **Instagram:** [@shabariraj.dev](https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw==)
-- ✈️ **Telegram:** *(Coming Soon)*
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
+      <!-- Replace placeholder with project screenshot -->
+      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+01" width="100%" style="border-radius: 5px;">
+      <br>
+      <h3>Project Alpha</h3>
+      <p>Data pipeline architecture built with Python and SQL to automate data extraction.</p>
+      <a href="#"><img src="https://img.shields.io/badge/View_Repository-D81120?style=for-the-badge" alt="Repo"></a>
+    </td>
+    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
+      <!-- Replace placeholder with project screenshot -->
+      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+02" width="100%" style="border-radius: 5px;">
+      <br>
+      <h3>Project Beta</h3>
+      <p>Cloud-hosted analytics dashboard providing real-time AI insights.</p>
+      <a href="#"><img src="https://img.shields.io/badge/View_Live_Demo-D81120?style=for-the-badge" alt="Demo"></a>
+    </td>
+    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
+      <!-- Replace placeholder with project screenshot -->
+      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+03" width="100%" style="border-radius: 5px;">
+      <br>
+      <h3>Project Gamma</h3>
+      <p>C++ based high-performance data processing engine.</p>
+      <a href="#"><img src="https://img.shields.io/badge/View_Repository-D81120?style=for-the-badge" alt="Repo"></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h2>// EDUCATION</h2>
+      <b>Universiti Teknologi Malaysia (UTM)</b><br>
+      <i>Bachelor of Computer Science (Data Engineering)</i><br>
+      <p>Year 1 Student | Johor Bahru, Malaysia</p>
+      <br>
+      <b>Certifications & Courses:</b>
+      <p>▪️ [Insert Certification Name] - <i>Issuer</i><br>
+      ▪️ [Insert Course Name] - <i>Platform</i></p>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h2>// LEADERSHIP & IMPACT</h2>
+      <p>▪️ <b>Peer Tutoring:</b> Mentoring peers in fundamental programming concepts and logic.</p>
+      <p>▪️ <b>[Leadership Role]:</b> Add your specific leadership title and brief impact here.</p>
+      <p>▪️ <b>[Hackathon/Event]:</b> Add specific achievements, hackathons, or tech events attended.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+
 <div align="center">
-  <i>Visitor Count</i><br>
+  <p><i>Ready to build the impossible? Let's connect.</i></p>
   <img src="https://profile-counter.glitch.me/Shabariraj-source/count.svg" alt="Visitor Count" />
 </div>
