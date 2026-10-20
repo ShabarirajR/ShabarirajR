@@ -16,10 +16,10 @@
 </a>
 
 <p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/ShabarirajR">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/shabariraj-rajendran/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
