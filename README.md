@@ -28,7 +28,7 @@
 
 ---
 
-## `whoami` — Hello, I'm a Data Engineering student 👋
+## `whoami` — Hello, I'm Shabariraj Rajendran 👋
 
 I'm currently pursuing a **Bachelor of Computer Science (Data Engineering)** at **Universiti Teknologi Malaysia (UTM), Johor Bahru**.
 
