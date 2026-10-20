@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dark technology profile banner</title>
+  <desc id="desc">A dark navy banner with cyan and purple gradients, subtle grid lines, glowing abstract rings, and a data engineering theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B16"/>
+      <stop offset="55%" stop-color="#10152B"/>
+      <stop offset="100%" stop-color="#1B1033"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".95"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity=".95"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="930" cy="160" rx="350" ry="260" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".8">
+    <path d="M760 0 C860 75 810 130 920 180 S1080 265 1200 210"/>
+    <path d="M820 0 C920 75 870 130 980 180 S1140 265 1200 245" opacity=".55"/>
+    <circle cx="970" cy="155" r="84" opacity=".75"/>
+    <circle cx="970" cy="155" r="112" opacity=".42"/>
+    <circle cx="970" cy="155" r="140" opacity=".22"/>
+  </g>
+  <g stroke="#67E8F9" stroke-width="2" fill="#0D1728" filter="url(#softGlow)">
+    <rect x="910" y="96" width="42" height="42" rx="8"/>
+    <rect x="988" y="146" width="42" height="42" rx="8" stroke="#A78BFA"/>
+    <rect x="902" y="213" width="42" height="42" rx="8" stroke="#A78BFA"/>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2.5" opacity=".9">
+    <path d="M952 117 L975 117 L975 167 L988 167"/>
+    <path d="M923 138 L923 193 L923 213"/>
+    <path d="M944 234 L970 234 L970 188 L988 188"/>
+  </g>
+  <g fill="#CFFAFE">
+    <circle cx="975" cy="117" r="4"/><circle cx="923" cy="193" r="4"/>
+    <circle cx="970" cy="234" r="4"/><circle cx="988" cy="167" r="4"/>
+  </g>
+  <text x="76" y="92" fill="#67E8F9" font-family="monospace" font-size="17" letter-spacing="5">HELLO, WORLD_</text>
+  <text x="72" y="158" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">DATA ENGINEERING</text>
+  <text x="76" y="204" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">Student • Builder • Lifelong Learner</text>
+  <path d="M76 239 H530" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <text x="76" y="278" fill="#CBD5E1" font-family="monospace" font-size="17">DATA  /  PYTHON  /  SQL  /  AI</text>
+  <text x="76" y="313" fill="#94A3B8" font-family="monospace" font-size="13">LEARN IN PUBLIC · BUILD WITH PURPOSE</text>
+</svg>
