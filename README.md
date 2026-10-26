@@ -9,20 +9,6 @@
 ### Computer Science Student | Data Engineering | Tech Enthusiast
 
 
-\<p>   \<a href="[https://www.linkedin.com/in/shabariraj-rajendran/](https://www.linkedin.com/in/shabariraj-rajendran/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/ShabarirajR](https://github.com/ShabarirajR)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="YOUR_INSTAGRAM_URL">
-&#x20;   \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram"/>   \</a>   \<a href="mailto\:shabariraj\@graduate.utm.my">     \<img src="[https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-&#x20; \</a>
-\</p>
-
-\</div>
-
----
-
 ## 👨‍💻 About Me
 
 Hello! I'm a Computer Science student specializing in **Data Engineering at Universiti Teknologi Malaysia (UTM), Johor Bahru**.
