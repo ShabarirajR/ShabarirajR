@@ -8,9 +8,6 @@
 
 ### Computer Science Student | Data Engineering | Tech Enthusiast
 
-\<p>
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Exploring+Software+%26+AI;Building+Projects%2C+Learning+Every+Day;Turning+Data+Into+Insights](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Aspiring+Data+Engineer;Exploring+Software+%26+AI;Building+Projects%2C+Learning+Every+Day;Turning+Data+Into+Insights)" alt="Typing introduction" />
-\</p>
 
 \<p>   \<a href="[https://www.linkedin.com/in/shabariraj-rajendran/](https://www.linkedin.com/in/shabariraj-rajendran/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
 &#x20; \</a>
