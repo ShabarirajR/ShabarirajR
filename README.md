@@ -1,124 +1,198 @@
 [README.md](https://github.com/user-attachments/files/33699508/README.md)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=50&pause=1000&color=D81120&center=true&vCenter=true&width=800&lines=SHABARIRAJ+RAJENDRAN;DATA+ENGINEER;TECH+INNOVATOR" alt="Typing SVG" />
-  
-  <p align="center">
-    <b>Computer Science Student | Aspiring Data Engineer</b><br>
-    <i>“They said impossible, I said watch me.”</i>
-  </p>
 
-  <a href="mailto:shabariraj.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D81120" alt="Email"></a>
-  <a href="https://github.com/Shabariraj-source"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D81120" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/shabariraj-rajendran/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D81120" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/shabariraj.dev?cplk=MWF5Nmc0ZDJpNzhoMw=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D81120" alt="Instagram"></a>
-</div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-<br>
+\<div align="center">
 
-<table width="100%" align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="35%" align="center" style="border: none;">
-      <!-- REPLACE 'watermarked_img_18324930720622513468.jpg' WITH YOUR ACTUAL IMAGE LINK ONCE UPLOADED -->
-      <img src="watermarked_img_18324930720622513468.jpg" width="250" alt="Profile Picture" style="border-radius: 10px; border: 2px solid #D81120;">
-    </td>
-    <td width="65%" valign="top" style="border: none;">
-      <h2>// ABOUT ME & GOALS</h2>
-      <p>I am a first-year <b>Computer Science (Data Engineering)</b> student at Universiti Teknologi Malaysia (UTM) with a relentless drive for building reliable data systems and working with modern AI technologies.</p>
-      <br>
-      <p>🚀 <b>Mission:</b> Develop a strong technical portfolio, master scalable data systems, and secure a high-impact Year 2 internship.</p>
-      <p>💡 <b>Strengths:</b> Analytical problem-solving, rapid learning through building, leadership, and peer mentoring.</p>
-      <p>🌍 <b>Vision:</b> Remote collaboration with global tech innovators, pushing boundaries in AI and data architecture.</p>
-    </td>
-  </tr>
-</table>
+# Hi, I'm Your Name 👋
 
-<table width="100%" align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h2>// TECHNICAL ARSENAL</h2>
-      <p><b>Core Languages:</b></p>
-      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D81120">
-      <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=D81120">
-      <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B&logoColor=D81120">
-      <br><br>
-      <p><b>Data & Architecture:</b></p>
-      <img src="https://img.shields.io/badge/Data_Analytics-111111?style=flat-square&logo=databricks&logoColor=D81120">
-      <img src="https://img.shields.io/badge/Cloud_Computing-111111?style=flat-square&logo=google-cloud&logoColor=D81120">
-      <img src="https://img.shields.io/badge/AI_Integration-111111?style=flat-square&logo=openai&logoColor=D81120">
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h2>// CURRENTLY EXPLORING</h2>
-      <p>🛰️ <b>Space Technology & Data:</b> Exploring how big data impacts modern space exploration.</p>
-      <p>🧠 <b>Machine Learning:</b> Building predictive models.</p>
-      <p>☁️ <b>Cloud Infrastructure:</b> Designing scalable remote databases.</p>
-      <div align="center">
-        <!-- Tech/Wireframe GIF for aesthetic -->
-        <img src="https://i.pinimg.com/originals/a7/46/78/a74678dfa97b21bd1c3f191f636279f6.gif" width="120" style="border-radius: 10px; border: 1px solid #333;">
-      </div>
-    </td>
-  </tr>
-</table>
+### Computer Science Student | Data Engineering | Tech Enthusiast
 
-<h2>// SELECTED PROJECTS</h2>
+\<p>
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Exploring+Software+%26+AI;Building+Projects%2C+Learning+Every+Day;Turning+Data+Into+Insights](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Aspiring+Data+Engineer;Exploring+Software+%26+AI;Building+Projects%2C+Learning+Every+Day;Turning+Data+Into+Insights)" alt="Typing introduction" />
+\</p>
 
-<table width="100%" align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
-      <!-- Replace placeholder with project screenshot -->
-      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+01" width="100%" style="border-radius: 5px;">
-      <br>
-      <h3>Project Alpha</h3>
-      <p>Data pipeline architecture built with Python and SQL to automate data extraction.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repository-D81120?style=for-the-badge" alt="Repo"></a>
-    </td>
-    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
-      <!-- Replace placeholder with project screenshot -->
-      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+02" width="100%" style="border-radius: 5px;">
-      <br>
-      <h3>Project Beta</h3>
-      <p>Cloud-hosted analytics dashboard providing real-time AI insights.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Live_Demo-D81120?style=for-the-badge" alt="Demo"></a>
-    </td>
-    <td width="33%" align="center" valign="top" style="border: 1px solid #333; padding: 10px;">
-      <!-- Replace placeholder with project screenshot -->
-      <img src="https://via.placeholder.com/400x220/111111/D81120?text=PROJECT+03" width="100%" style="border-radius: 5px;">
-      <br>
-      <h3>Project Gamma</h3>
-      <p>C++ based high-performance data processing engine.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repository-D81120?style=for-the-badge" alt="Repo"></a>
-    </td>
-  </tr>
-</table>
+\<p>   \<a href="[https://www.linkedin.com/in/shabariraj-rajendran/](https://www.linkedin.com/in/shabariraj-rajendran/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/ShabarirajR](https://github.com/ShabarirajR)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<a href="YOUR_INSTAGRAM_URL">
+&#x20;   \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram"/>   \</a>   \<a href="mailto\:shabariraj\@graduate.utm.my">     \<img src="[https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+&#x20; \</a>
+\</p>
 
-<br>
+\</div>
 
-<table width="100%" align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h2>// EDUCATION</h2>
-      <b>Universiti Teknologi Malaysia (UTM)</b><br>
-      <i>Bachelor of Computer Science (Data Engineering)</i><br>
-      <p>Year 1 Student | Johor Bahru, Malaysia</p>
-      <br>
-      <b>Certifications & Courses:</b>
-      <p>▪️ [Insert Certification Name] - <i>Issuer</i><br>
-      ▪️ [Insert Course Name] - <i>Platform</i></p>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h2>// LEADERSHIP & IMPACT</h2>
-      <p>▪️ <b>Peer Tutoring:</b> Mentoring peers in fundamental programming concepts and logic.</p>
-      <p>▪️ <b>[Leadership Role]:</b> Add your specific leadership title and brief impact here.</p>
-      <p>▪️ <b>[Hackathon/Event]:</b> Add specific achievements, hackathons, or tech events attended.</p>
-    </td>
-  </tr>
-</table>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+## 👨‍💻 About Me
 
-<div align="center">
-  <p><i>Ready to build the impossible? Let's connect.</i></p>
-  <img src="https://profile-counter.glitch.me/Shabariraj-source/count.svg" alt="Visitor Count" />
-</div>
+Hello! I'm a Computer Science student specializing in **Data Engineering at Universiti Teknologi Malaysia (UTM), Johor Bahru**.
+
+I'm passionate about technology, data, and continuous learning. I'm currently building my technical foundation, exploring new tools, and developing projects that help me turn theoretical knowledge into practical experience.
+
+I believe in learning by doing, staying curious, and improving a little every day. This GitHub profile is where I document my progress, share my projects, and showcase my journey toward becoming a skilled technology professional.
+
+- 🎓 Currently pursuing a Bachelor's degree in Computer Science (Data Engineering).
+- 📊 Interested in data engineering, databases, and data-driven solutions.
+- 💻 Exploring programming, software development, and emerging technologies.
+- 🤖 Curious about artificial intelligence and its real-world applications.
+- 🤝 Interested in teamwork, leadership, and technology communities.
+- 🌱 Always learning, experimenting, and building something new.
+
+---
+
+## 🎓 Educational Background
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="70%">
+&#x20;     \<strong>Universiti Teknologi Malaysia (UTM)\</strong>\<br/>
+&#x20;     Bachelor's Degree in Computer Science (Data Engineering)\<br/>
+&#x20;     Johor Bahru, Johor, Malaysia
+&#x20;   \</td>
+&#x20;   \<td align="center" width="30%">
+&#x20;     \<img src="[https://img.shields.io/badge/Status-Currently_Studying-2EA44F?style=flat-square](https://img.shields.io/badge/Status-Currently_Studying-2EA44F?style=flat-square)" alt="Currently studying"/>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
+
+**Academic interests**
+
+- Data engineering and database systems
+- Data processing and analytics
+- Programming and software development
+- Artificial intelligence and data-driven technologies
+
+---
+
+## 🛠️ Technical Interests & Tools
+
+I'm continuously developing my technical skills. The following represents areas I'm interested in learning and exploring, rather than a claim of mastery.
+
+**Areas of interest**
+
+
+
+
+\
+
+
+**Technology learning roadmap**
+
+
+
+\
+
+
+*I'll update this section as I gain hands-on experience with more tools and technologies.*
+
+---
+
+## 🚀 Experience & Activities
+
+### Google Developer Group (GDG) — UTM
+
+- Participated in a hackathon hosted by the UTM Google Developer Group.
+- Gained exposure to collaborative problem-solving and technology-driven projects.
+- Interested in contributing to developer communities and learning alongside other students.
+
+### Student Leadership & Event Organization
+
+- Served as Head Prefect during secondary school.
+- Participated in the District-Level Student Leader Board of SMK Mutiara Rini.
+- Served as Chess Club President, helping organize chess tournaments and workshops.
+- Developed an interest in teamwork, event coordination, communication, and leadership.
+
+---
+
+## 🧠 Interests Beyond Coding
+
+- ♟️ **Chess:** Strategy, logical thinking, and competitive problem-solving.
+- 🌐 **Technology Communities:** Connecting with developers and learning from others.
+- 🧩 **Problem-Solving:** Breaking down challenges and finding practical solutions.
+- 📚 **Continuous Learning:** Exploring new skills, tools, and ideas.
+- 🚀 **Personal Development:** Building leadership, communication, and teamwork skills.
+
+---
+
+## 📂 Featured Projects
+
+Here are the projects I'm building and learning from. Replace these examples with your actual repositories as you develop your portfolio.
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3>📊 Data Engineering Projects\</h3>
+&#x20;     \<p>Projects exploring data processing, databases, and data pipelines.\</p>
+&#x20;     \<p>\<a href="YOUR_DATA_PROJECT_REPOSITORY">View Repository →\</a>\</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3>💻 Programming Projects\</h3>
+&#x20;     \<p>Academic assignments, coding experiments, and practical applications.\</p>
+&#x20;     \<p>\<a href="YOUR_PROGRAMMING_REPOSITORY">View Repository →\</a>\</p>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3>🤖 AI & Technology\</h3>
+&#x20;     \<p>Learning projects exploring artificial intelligence and emerging technologies.\</p>
+&#x20;     \<p>\<a href="YOUR_AI_REPOSITORY">View Repository →\</a>\</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3>📚 Learning Journey\</h3>
+&#x20;     \<p>Notes, experiments, and progress throughout my Computer Science degree.\</p>
+&#x20;     \<p>\<a href="YOUR_LEARNING_REPOSITORY">View Repository →\</a>\</p>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
+
+---
+
+## 📈 GitHub Statistics
+
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub statistics"/>
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used languages"/>
+
+\<img width="95%" src="[https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak"/>
+
+\</div>
+
+---
+
+## 🎯 My Goals
+
+- Build a strong foundation in data engineering and computer science.
+- Develop practical projects that demonstrate my technical abilities.
+- Improve my programming, analytical, and problem-solving skills.
+- Participate in hackathons, technology events, and collaborative projects.
+- Connect with developers, mentors, and like-minded students.
+- Document my progress and grow a meaningful professional portfolio.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to connecting with fellow students, developers, and people who share an interest in technology, data, and personal growth.
+
+Whether it's discussing a project, sharing learning resources, or collaborating on an idea, feel free to reach out!
+
+\<p align="center">
+&#x20; \<a href="YOUR_LINKEDIN_URL">LinkedIn\</a> •
+&#x20; \<a href="YOUR_GITHUB_URL">GitHub\</a> •
+&#x20; \<a href="YOUR_INSTAGRAM_URL">Instagram\</a> •
+&#x20; \<a href="mailto\:YOUR_EMAIL\@example.com">Email Me\</a>
+\</p>
+
+\<div align="center">
+
+### "Learning by building. Growing through experience."
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=100\&section=footer)" width="100%" alt="Decorative footer"/>
+
+\</div>
+
